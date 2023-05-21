@@ -14,10 +14,13 @@
 * 4. Repository에 Merge한다.
 * 5. 주 3문제 커밋을 목표로 한다.
 
+<br><br><br>
+
 
 <details>
     <summary>주차별 문제 유형</summary>
 
 | 1주차 (05.21 ~ 05.27) | BFS |
+| :------: | :------: |
 
 </details>
