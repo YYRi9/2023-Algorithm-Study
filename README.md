@@ -18,7 +18,7 @@
 
 
 <details>
-    <summary>주차별 문제 유형</summary>
+    <summary>주차별 문제 유형</summary><br>
 
 | 1주차 (05.21 ~ 05.27) | BFS |
 | :------: | :------: |
