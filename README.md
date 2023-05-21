@@ -14,7 +14,7 @@
 * 4. Repository에 Merge한다.
 * 5. 주 3문제 커밋을 목표로 한다.
 
-<br><br><br>
+<br><br>
 
 
 <details>
