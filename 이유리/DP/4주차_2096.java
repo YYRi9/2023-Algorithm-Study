@@ -33,6 +33,7 @@ public class Main {
     
     // dp 배열 초기화
     static public void init() {
+        // dp의 첫 번째 줄을 score의 첫 번째 줄 값들로 초기화한다.
         dp[0][0] = score[0][0];
         dp[0][1] = score[0][1];
         dp[0][2] = score[0][2];
